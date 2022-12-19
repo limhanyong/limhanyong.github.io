@@ -10,3 +10,4 @@ readmo. file. up. write
 ## 12월 14일 포토이미지파일 정리시작
 ## 12월 15일 Search 시작
 ## 12월 16일 Java First Vision
+## 12월 19일 Project Start
