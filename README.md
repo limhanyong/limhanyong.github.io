@@ -13,3 +13,4 @@ readmo. file. up. write
 ## 12월 19일 Project Start
 ## 12월 20,21일 휴강.
 ## 12월 22일 프로젝트 요강.
+## 12월 23일 휴강
